@@ -1,0 +1,4 @@
+Ma NV: h37 | Ho ten: ngu ngu ngu | Tuoi: 30 | Chuc vu: bao ve | Luong: 6900000,00 | Ngay sinh: 23/09/2093 | So ngay cong: 23
+Ma NV: h74 | Ho ten: ngu nhu hu | Tuoi: 23 | Chuc vu: bao ve  | Luong: 6900000,00 | Ngay sinh: 12/09/293 | So ngay cong: 23
+Ma NV: n48 | Ho ten: nhu nhus | Tuoi: 19 | Chuc vu: bao ve | Luong: 9000000,00 | Ngay sinh: 23/08/2832 | So ngay cong: 30
+Ma NV:  | Ho ten: ngu nhu nji | Tuoi: 23 | Chuc vu: bao ve | Luong: 7500000,00 | Ngay sinh: 89/02/9842 | So ngay cong: 25

@@ -1,0 +1,5 @@
+Y007,Le van be,22,Lao cong,28/05/2002,27,8100000
+B009,Nguyen van binh,25,Bao ve,12/02/1999,24,7200000
+A005 ,Nguyen thi hoa,23,Thu ky,23/04/2001,21,6300000
+K003,Tran Van bao,23,Tro ly,09/02/2001,13,3900000
+H001,Ngo Nhat Tin,23,Chu tich,01/01/2001,9,2700000
